@@ -17,11 +17,26 @@ JSP를 통해 학생들이 수강한 강의를 평가하는 사이트입니다.
 - Bootstrap - framework
 - Popper
 - Jquery 
-- 
-##### 메인 로그인화면  
+
+#### 메인 로그인화면  
 ![메인 로그인화면](https://user-images.githubusercontent.com/93184838/148732983-ac316043-069e-4032-86d3-abb935864ec7.JPG)
-<img src="https://user-images.githubusercontent.com/93184838/148732983-ac316043-069e-4032-86d3-abb935864ec7.JPG"  width="700" height="370">
-로그인한 사람들만 사용가능하게 제작하여 메인페이지에 접속했을 때 로그인이 안되어있으면 로그인화면으로 넘어갑니다.
-##### 메인 로그인화면  
-![로그인 후 메인](https://user-images.githubusercontent.com/93184838/148734028-07981f4e-7826-49f2-89fb-c3d62b67f142.JPG)
-<img src="https://user-images.githubusercontent.com/93184838/148734028-07981f4e-7826-49f2-89fb-c3d62b67f142.JPG"  width="700" height="370">
+로그인한 사람들만 사용가능하게 제작하여 메인페이지에 접속했을 때 로그인이 안되어있으면 로그인화면으로 넘어갑니다. <br>
+#### 회원가입
+![회원가입](https://user-images.githubusercontent.com/93184838/148734677-9bafe2e0-24af-4beb-984c-20fc5af6f298.JPG)
+**회원가입은 이메일인증을 통해 가능합니다 **
+#### 이메일 인증
+![이메일 인증](https://user-images.githubusercontent.com/93184838/148734858-93f5e79a-90b4-4917-8afa-1b6020d12a2c.JPG)
+<br>
+![메일전송](https://user-images.githubusercontent.com/93184838/148734899-33cb4433-884c-4149-a4a0-a1d133212781.JPG)
+<br>
+![인증창](https://user-images.githubusercontent.com/93184838/148734954-df8e3542-3fe4-4d0b-b2d6-5640d734a3bd.JPG)
+
+#### 메인 로그인화면  
+![메인화면](https://user-images.githubusercontent.com/93184838/148734515-b1fc7eb7-7793-4864-a4dc-16ce0d35ab2a.JPG)
+<br>
+#### 평가 등록하기
+![평가 등록](https://user-images.githubusercontent.com/93184838/148734587-7b9e9a99-5d49-4e1b-a3ed-d09970fe6dcf.JPG)
+<br>
+#### 신고하기
+![신고하기](https://user-images.githubusercontent.com/93184838/148734614-cd9fc7f1-a4de-442a-b4b1-98e65a2b285f.JPG)
+<br>
