@@ -17,3 +17,11 @@ JSP를 통해 학생들이 수강한 강의를 평가하는 사이트입니다.
 - Bootstrap - framework
 - Popper
 - Jquery 
+- 
+##### 메인 로그인화면  
+![메인 로그인화면](https://user-images.githubusercontent.com/93184838/148732983-ac316043-069e-4032-86d3-abb935864ec7.JPG)
+<img src="https://user-images.githubusercontent.com/93184838/148732983-ac316043-069e-4032-86d3-abb935864ec7.JPG"  width="700" height="370">
+로그인한 사람들만 사용가능하게 제작하여 메인페이지에 접속했을 때 로그인이 안되어있으면 로그인화면으로 넘어갑니다.
+##### 메인 로그인화면  
+![로그인 후 메인](https://user-images.githubusercontent.com/93184838/148734028-07981f4e-7826-49f2-89fb-c3d62b67f142.JPG)
+<img src="https://user-images.githubusercontent.com/93184838/148734028-07981f4e-7826-49f2-89fb-c3d62b67f142.JPG"  width="700" height="370">
